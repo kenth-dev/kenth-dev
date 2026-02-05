@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="center"><strong>Currently Learning</strong></h3>
+<h2 align="center"><strong>Currently Learning</strong></h2>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
@@ -48,6 +48,7 @@
 
 
 ---
+<h1 align="center"><strong>Tech Stack</strong></h1>
 <h3 align="center"><strong>Programming Languages</strong></h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
@@ -97,7 +98,7 @@
 
 ---
 
-<h2 align="center">My Projects</h2>
+<h1 align="center"><strong>My Projects</strong></h1>
 
 <p align="center">
   <a href="https://ubra.shop" target="_blank">
@@ -127,23 +128,26 @@
 
 ---
 <h2 align="center"><strong>Contact Me</strong></h2>
-<p align="center" style="line-height: 2.5;">
-  <a href="https://www.linkedin.com/in/kenneth-gasmen-021046354/" target="_blank" style="margin: 0 25px;">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
-  </a>
 
-  <a href="mailto:kengasmen@gmail.com" style="margin: 0 25px;">
-    <span style="font-size: 35px; font-weight: bold; background-color: #D14836; color: white; padding: 10px 15px; border-radius: 6px;">
+<!-- LinkedIn Row -->
+<p align="center" style="margin-bottom: 30px;">
+  <a href="https://www.linkedin.com/in/kenneth-gasmen-021046354/" target="_blank">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+  </a>
+</p>
+
+<!-- Email and Phone Row -->
+<p align="center" style="line-height: 2.5;">
+  <a href="mailto:kengasmen@gmail.com" style="margin: 0 20px;">
+    <span style="font-size: 45px; font-weight: bold; background-color: #D14836; color: white; padding: 15px 20px; border-radius: 6px;">
       📧 kengasmen@gmail.com
     </span>
   </a>
 
-  <span style="font-size: 35px; font-weight: bold; background-color: #25D366; color: white; padding: 10px 15px; border-radius: 6px; margin-left: 25px;">
+  <span style="font-size: 45px; font-weight: bold; background-color: #25D366; color: white; padding: 15px 20px; border-radius: 6px; margin-left: 20px;">
     📞 +63-966-149-0595
   </span>
 </p>
-
-
 
 
 ---

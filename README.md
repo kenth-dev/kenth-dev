@@ -115,7 +115,7 @@
     <strong>UBRA Startup</strong>
   </a>
   <br>
-  <em>Philippine national startup qualifier website showcasing innovative features and responsive design.</em>
+  <em>Philippine national startup qualifier and Regional Champion showcasing innovative features and responsive design.</em>
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@
     <strong>GFP Website</strong>
   </a>
   <br>
-  <em>Business website I helped build to increase online presence and customer engagement.</em>
+  <em>Business website I built to increase online presence and customer engagement.</em>
 </p>
 
 

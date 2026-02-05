@@ -108,13 +108,28 @@
 
 <p align="center">
   <a href="https://ubra.shop" target="_blank">
-    <img src="UBRA.png" alt="UBRA Website" width="300" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="UBRA.png" alt="UBRA Website" width="300" height="200" style="margin: 10px; border-radius: 10px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   </a>
-
-  <a href="https://gfpfuneral.online" target="_blank">
-    <img src="GFP.png" alt="GFP Website" width="300" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <br>
+  <a href="https://ubra.shop" target="_blank" style="text-decoration: none; color: #1E90FF;">
+    <strong>UBRA Startup</strong>
   </a>
+  <br>
+  <em>Philippine national startup qualifier website showcasing innovative features and responsive design.</em>
 </p>
+
+<p align="center">
+  <a href="https://gasmenfunerals.online" target="_blank">
+    <img src="GFP.png" alt="GFP Website" width="300" height="200" style="margin: 10px; border-radius: 10px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+  <br>
+  <a href="https://gasmenfunerals.online" target="_blank" style="text-decoration: none; color: #1E90FF;">
+    <strong>GFP Website</strong>
+  </a>
+  <br>
+  <em>Business website I helped build to increase online presence and customer engagement.</em>
+</p>
+
 
 
 ---

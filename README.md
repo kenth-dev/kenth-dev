@@ -8,6 +8,18 @@
 ![GitHub GIF](githubgif.gif)
 
 ---
+### About me
+I am a Computer Science undergraduate with a strong interest in full stack web development.  
+My current focus is on the MERN stack and modern JavaScript frameworks, where I am building projects to strengthen both frontend and backend skills.  
+I enjoy learning by doing, experimenting with new technologies, and improving my understanding of system architecture, API design, and responsive user interfaces.  
+
+In addition to coding, I have a passion for photography, capturing landscapes and everyday moments that inspire creativity.  
+I love riding my motorcycle and discovering new coffee spots, these activities give widen my perspective and fuel my problem-solving in my projects.  
+
+I am continuously working on expanding my technical skills while combining them with creativity and curiosity, aiming to contribute to meaningful and innovative applications in the future.
+
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Learning-brightgreen" />

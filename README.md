@@ -109,9 +109,20 @@ Portfolio: coming soon
 This GitHub contains learning projects, coursework, and practice repositories.
 
 ---
+<h2 align="center"><strong>📫 Contact Me</strong></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenneth-gasmen-021046354/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kengasmen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <span style="font-size: 16px; font-weight: bold; background-color: #25D366; color: white; padding: 10px 15px; border-radius: 6px; margin-left: 10px;">
+    📞 +63-912-345-6789
+  </span>
+</p>
 
-### Get in Touch
-Contact details coming soon  
+
 
 ---
 

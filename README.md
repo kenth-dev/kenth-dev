@@ -8,16 +8,22 @@
 ![GitHub GIF](githubgif.gif)
 
 ---
-### About me
-I am a Computer Science undergraduate with a strong interest in full stack web development.  
-My current focus is on the MERN stack and modern JavaScript frameworks, where I am building projects to strengthen both frontend and backend skills.  
-I enjoy learning by doing, experimenting with new technologies, and improving my understanding of system architecture, API design, and responsive user interfaces.  
+<h3>About Me</h3>
 
-In addition to coding, I have a passion for photography, capturing landscapes and everyday moments that inspire creativity.  
-I love riding my motorcycle and discovering new coffee spots, these activities give widen my perspective and fuel my problem-solving in my projects.  
+<p>
+  I am a <strong>Computer Science undergraduate</strong> specializing in <strong>full stack web development</strong>.  
+  Currently, I focus on the <strong>MERN stack</strong> and modern JavaScript frameworks, building projects to strengthen both frontend and backend skills.
+</p>
 
-I am continuously working on expanding my technical skills while combining them with creativity and curiosity, aiming to contribute to meaningful and innovative applications in the future.
+<p>
+  Beyond coding, I am passionate about <strong>photography</strong>, <strong>motorcycle rides</strong>, <strong>nature trips</strong>, and exploring <strong>new coffee spots</strong>.  
+  These interests fuel creativity and enhance problem-solving in my development work.
+</p>
 
+<p>
+  I am continuously working on expanding my technical skills while combining them with creativity and curiosity,  
+  aiming to contribute to <strong>meaningful and innovative applications</strong> in the future.
+</p>
 
 ---
 

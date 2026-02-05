@@ -104,9 +104,18 @@
 
 
 ### Projects
-Portfolio: coming soon  
+<h2 align="center">My Projects</h2>
 
-This GitHub contains learning projects, coursework, and practice repositories.
+<p align="center">
+  <a href="https://ubra.shop" target="_blank">
+    <img src="UBRA.png" alt="UBRA Website" width="300" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+
+  <a href="https://gfpfuneral.online" target="_blank">
+    <img src="GFP.png" alt="GFP Website" width="300" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+</p>
+
 
 ---
 <h2 align="center"><strong>Contact Me</strong></h2>

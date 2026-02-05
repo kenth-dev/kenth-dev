@@ -26,6 +26,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="pacman.gif" alt="GitHub GIF" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Learning-brightgreen" />

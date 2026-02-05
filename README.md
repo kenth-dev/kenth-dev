@@ -101,9 +101,6 @@
 
 ---
 
-
-
-### Projects
 <h2 align="center">My Projects</h2>
 
 <p align="center">

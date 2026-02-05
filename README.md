@@ -151,7 +151,7 @@ Resume: coming soon
 
 ---
 
- ### GitHub Activity Graph
+<h2 align="center"><strong>Github Activity Graph</strong></h2>
  <p align="center">
   <img src="https://github.com/kenth-dev/kenth-dev/blob/main/github-user-contribution.svg" alt="GitHub Activity Graph" />
 </p>

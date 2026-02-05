@@ -109,18 +109,23 @@ Portfolio: coming soon
 This GitHub contains learning projects, coursework, and practice repositories.
 
 ---
-<h2 align="center"><strong>📫 Contact Me</strong></h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/kenneth-gasmen-021046354/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<h2 align="center"><strong>Contact Me</strong></h2>
+<p align="center" style="line-height: 2.5;">
+  <a href="https://www.linkedin.com/in/kenneth-gasmen-021046354/" target="_blank" style="margin: 0 25px;">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kengasmen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+  <a href="mailto:kengasmen@gmail.com" style="margin: 0 25px;">
+    <span style="font-size: 35px; font-weight: bold; background-color: #D14836; color: white; padding: 10px 15px; border-radius: 6px;">
+      📧 kengasmen@gmail.com
+    </span>
   </a>
-  <span style="font-size: 16px; font-weight: bold; background-color: #25D366; color: white; padding: 10px 15px; border-radius: 6px; margin-left: 10px;">
+
+  <span style="font-size: 35px; font-weight: bold; background-color: #25D366; color: white; padding: 10px 15px; border-radius: 6px; margin-left: 25px;">
     📞 +63-912-345-6789
   </span>
 </p>
+
 
 
 

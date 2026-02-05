@@ -1,5 +1,9 @@
-<h1 align="center" style="color: #FF69B4;">Hey there! 👋 I'm Kenneth Gasmen</h1>  
-<h3 align="center" style="color: #1E90FF;">Computer Science Undergraduate | Aspiring Full Stack Developer from the Philippines</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=E63AFF&width=700&lines=Welcome+to+my+profile!;I+am+Kenneth+Gasmen;Computer+Science+Undergraduate;Aspiring+Full+Stack+Developer" />
+  </a>
+</p>
+
 
 ![GitHub GIF](githubgif.gif)
 

@@ -8,27 +8,25 @@
 ![GitHub GIF](githubgif.gif)
 
 ---
-<h3>About Me</h3>
 
-<p>
-  I am a <strong>Computer Science undergraduate</strong> specializing in <strong>full stack web development</strong>.  
-  Currently, I focus on the <strong>MERN stack</strong> and modern JavaScript frameworks, building projects to strengthen both frontend and backend skills.
-</p>
+<div align="center">
+  <h1>About Me</h1>
 
-<p>
-  Beyond coding, I am passionate about <strong>photography</strong>, <strong>motorcycle rides</strong>, <strong>nature trips</strong>, and exploring <strong>new coffee spots</strong>.  
-  These interests fuel creativity and enhance problem-solving in my development work.
-</p>
+  <p>
+    <img src="pacman.gif" alt="GitHub GIF" width="200" />
+  </p>
 
-<p>
-  I am continuously working on expanding my technical skills while combining them with creativity and curiosity,  
-  aiming to contribute to <strong>meaningful and innovative applications</strong> in the future.
-</p>
+  <div style="text-align: justify; margin: 0 auto; width: 90%;">
+    I am a <strong>Computer Science undergraduate</strong> specializing in <strong>full stack web development</strong>.  
+    Currently, I focus on the <strong>MERN stack</strong> and modern JavaScript frameworks, building projects to strengthen both frontend and backend skills.
+    Beyond coding, I enjoy <strong>photography</strong>, <strong>motorcycle rides</strong>, <strong>nature trips</strong>, and exploring <strong>new coffee spots</strong>.  
+    These interests fuel creativity and problem-solving in my development work.
+    I am continuously expanding my technical skills while combining them with creativity and curiosity,  
+    aiming to contribute to <strong>meaningful and innovative applications</strong> in the future.
+  </div>
+</div>
 
 ---
-<p align="center">
-  <img src="pacman.gif" alt="GitHub GIF" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Learning-brightgreen" />

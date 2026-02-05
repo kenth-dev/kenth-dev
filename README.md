@@ -119,11 +119,11 @@
 </p>
 
 <p align="center">
-  <a href="https://gasmenfunerals.online" target="_blank">
+  <a href="https://gasmenfuneral.online" target="_blank">
     <img src="GFP.png" alt="GFP Website" width="300" height="200" style="margin: 10px; border-radius: 10px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   </a>
   <br>
-  <a href="https://gasmenfunerals.online" target="_blank" style="text-decoration: none; color: #1E90FF;">
+  <a href="https://gasmenfuneral.online" target="_blank" style="text-decoration: none; color: #1E90FF;">
     <strong>GFP Website</strong>
   </a>
   <br>

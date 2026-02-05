@@ -85,4 +85,13 @@ Contact details coming soon
 ### Resume
 Resume: coming soon  
 
+---
+
+ ### GitHub Activity Graph
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/kenth-dev/kenth-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Activity Graph" />
+</p>
+
+
+
 

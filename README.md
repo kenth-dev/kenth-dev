@@ -1,8 +1,9 @@
-<p align="left>
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=e528e6&width=700&lines=Welcome+to+my+profile!;I+am+Kenneth+Gasmen;Computer+Science+Undergraduate;Aspiring+Full+Stack+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=e528e6&width=450&lines=Welcome+to+my+Profile!;I+am+Kenneth+Gasmen;Computer+Science+Undergraduate;Aspiring+Full+Stack+Developer" alt="Typing SVG"/>
   </a>
-</p>
+</div>
+
 
 
 ![GitHub GIF](githubgif.gif)
@@ -37,13 +38,15 @@
 
 ---
 
-### Currently Learning
-- Full stack web development  
-- MERN stack architecture  
-- RESTful API design with Node.js and Express  
-- React and Next.js for frontend applications  
-- Database integration and basic data modeling  
-- Introductory DevOps and deployment workflows  
+<h3 align="center"><strong>Currently Learning</strong></h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E60BB&width=435&lines=Full+stack+web+development;MERN+stack+architecture;RESTful+API+with+Node.js+and+Express;Database+integration;Introductory+DevOps+and+deployment;AI+and+Machine+Learning+basics" alt="Typing SVG" />
+</a>
+
+</p>
+
 
 ---
 <h3 align="center"><strong>Programming Languages</strong></h3>

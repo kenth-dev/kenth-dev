@@ -5,7 +5,7 @@
 </div>
 
 
-![GitHub GIF](githubgif.gif)
+![GitHub GIF](assets/githubgif.gif)
 
 ---
 
@@ -13,7 +13,7 @@
   <h1>About Me</h1>
 
   <p>
-    <img src="pacman.gif" alt="GitHub GIF" width="200" />
+    <img src="assets/pacman.gif" alt="GitHub GIF" width="200" />
   </p>
 
   <div style="text-align: justify; margin: 0 auto; width: 90%;">
@@ -109,7 +109,7 @@
 
 <p align="center">
   <a href="https://ubra.shop" target="_blank">
-    <img src="UBRA.png" alt="UBRA Website" width="300" height="200" style="margin: 10px; border-radius: 10px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="assets/UBRA.png" alt="UBRA Website" width="300" height="200" style="margin: 10px; border-radius: 10px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   </a>
   <br>
   <a href="https://ubra.shop" target="_blank" style="text-decoration: none; color: #1E90FF;">
@@ -121,7 +121,7 @@
 
 <p align="center">
   <a href="https://gasmenfuneral.online" target="_blank">
-    <img src="GFP.png" alt="GFP Website" width="300" height="200" style="margin: 10px; border-radius: 10px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <img src="assets/GFP.png" alt="GFP Website" width="300" height="200" style="margin: 10px; border-radius: 10px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   </a>
   <br>
   <a href="https://gasmenfuneral.online" target="_blank" style="text-decoration: none; color: #1E90FF;">

@@ -144,7 +144,7 @@
 </p>
 
 <!-- Email and Phone Row -->
-<p align="center" style="line-height: 2.5;">
+<h3 align="center" style="line-height: 2.5;">
   <a href="mailto:kengasmen@gmail.com" style="margin: 0 20px;">
     <span style="font-size: 45px; font-weight: bold; background-color: #D14836; color: white; padding: 15px 20px; border-radius: 6px;">
       📧 kengasmen@gmail.com
@@ -154,7 +154,7 @@
   <span style="font-size: 45px; font-weight: bold; background-color: #25D366; color: white; padding: 15px 20px; border-radius: 6px; margin-left: 20px;">
     📞 +63-966-149-0595
   </span>
-</p>
+</h3>
 
 
 ---

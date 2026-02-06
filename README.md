@@ -20,7 +20,7 @@
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=e528e6&width=450&lines=Welcome+to+my+Space!+</>;I+am+Kenneth+Gasmen+<3;CompSci+Undergraduate;Full+Stack+Developer;Building+Real+World+Proj;Full-time+Problem+Solver;Part-time+Coffee+Drinker" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=e528e6&width=500&lines=Hey+There!+I'm+Kenneth+%F0%9F%91%8B;Full+Stack+Web+Developer;Turning+Ideas+Into+Reality;Code+%7C+Coffee+%7C+Create;Always+Learning+%26+Building" alt="Typing SVG"/>
   </a>
   
 
@@ -42,7 +42,9 @@
 <!-- 👤 ABOUT ME SECTION                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center" style="color: #e528e6;">👤 ABOUT ME</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=E528E6&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%A4+ABOUT+ME" alt="About Me" />
+</div>
 
 
 <table>
@@ -113,6 +115,10 @@ life_philosophy: "Code is art. Innovation is the canvas."
 
 <br/>
 
+<img src="./assets/pacman.gif" alt="Pacman" width="200"/>
+
+<br/>
+
 <a href="https://github.com/kenth-dev">
   <img src="https://img.shields.io/badge/🌐_Full_Stack-Web_Development-e528e6?style=for-the-badge&labelColor=1a1b26"/>
 </a>
@@ -136,7 +142,9 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <!-- ⚡ TECH STACK                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center" style="color: #e528e6;">⚡ TECH STACK</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=E528E6&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9A%A1+TECH+STACK" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
@@ -203,7 +211,9 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <!-- 🚀 MY PROJECTS                                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center" style="color: #e528e6;">🚀 MY PROJECTS</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=E528E6&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9A%80+MY+PROJECTS" alt="My Projects" />
+</div>
 
 <div align="center">
 
@@ -261,7 +271,9 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center" style="color: #e528e6;">📊 GITHUB ANALYTICS</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=E528E6&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%93%8A+GITHUB+ANALYTICS" alt="GitHub Analytics" />
+</div>
 
 <br/>
 
@@ -272,8 +284,8 @@ life_philosophy: "Code is art. Innovation is the canvas."
     <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kenth-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e528e6&icon_color=e528e6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   &nbsp;
-  <a href="https://git.io/streak-stats">
-    <img height="195em" src="https://streak-stats.demolab.com?user=kenth-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=e528e6&fire=e528e6&currStreakLabel=e528e6" alt="GitHub Streak Stats"/>
+  <a href="https://github.com/kenth-dev">
+    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=kenth-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=e528e6&fire=e528e6&currStreakLabel=e528e6" alt="GitHub Streak Stats"/>
   </a>
   
   <br/>
@@ -310,7 +322,9 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <!-- 🌐 CONNECT WITH ME                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center" style="color: #e528e6;">🌐 CONNECT WITH ME</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=E528E6&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8C%90+CONNECT+WITH+ME" alt="Connect With Me" />
+</div>
 
 <br/>
 
@@ -333,7 +347,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 </a>
 
 </div>
-
+</br>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=e528e6&height=80&section=footer"/>
   

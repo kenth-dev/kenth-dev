@@ -166,7 +166,7 @@
 
 <h2 align="center"><strong>GitHub Activity Graph</strong></h2>
  <p align="center">
-  <img src="https://github.com/kenth-dev/kenth-dev/blob/main/github-user-contribution.svg" alt="GitHub Activity Graph" />
+  <img src="assets/pacman-contribution.svg" alt="GitHub Activity Graph" />
 </p>
 <div align="center">
   <div style="display: inline-flex; align-items: center; justify-content: center; gap: 24px; flex-wrap: wrap;">

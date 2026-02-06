@@ -72,7 +72,7 @@ currently_building:
   - Scalable Business Solutions
   - Developer Tools & Utilities
 
-life_philosophy: "Code is art. Innovation is the canvas."
+life_philosophy: "Build solutions that matter."
 ```
 
 </td>

@@ -34,7 +34,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(229,40,230,0) 0%, rgba(229,40,230,1) 50%, rgba(229,40,230,0) 100%);" />
 
 <br/>
 
@@ -125,7 +125,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(229,40,230,0) 0%, rgba(229,40,230,1) 50%, rgba(229,40,230,0) 100%);" />
 
 <br/>
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -194,7 +194,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(229,40,230,0) 0%, rgba(229,40,230,1) 50%, rgba(229,40,230,0) 100%);" />
 
 <br/>
 
@@ -255,7 +255,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(229,40,230,0) 0%, rgba(229,40,230,1) 50%, rgba(229,40,230,0) 100%);" />
 
 <br/>
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -276,7 +276,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
   </a>
   &nbsp;
   <a href="https://github.com/kenth-dev">
-    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=kenth-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=e528e6&fire=e528e6&currStreakLabel=e528e6" alt="GitHub Streak Stats"/>
+    <img height="195em" src="https://nirzak-streak-stats.vercel.app/?user=kenth-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=e528e6&fire=e528e6&currStreakLabel=e528e6&stroke=e528e6" alt="GitHub Streak Stats"/>
   </a>
   
   <br/>
@@ -305,7 +305,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(229,40,230,0) 0%, rgba(229,40,230,1) 50%, rgba(229,40,230,0) 100%);" />
 
 <br/>
 

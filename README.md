@@ -106,7 +106,7 @@ life_philosophy: "Build solutions that matter."
 <div align="center">
 <img src="./assets/pacman.gif" alt="Pacman" width="310"/>
   
-### Currently Learning & Building
+<h3><strong>Currently Learning & Building</strong></h3>
 
 
 <br/>
@@ -194,69 +194,6 @@ life_philosophy: "Build solutions that matter."
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" title="Figma"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
 </p>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 MY PROJECTS                                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=D946EF&center=true&vCenter=true&repeat=false&width=435&lines=MY+PROJECTS" alt="My Projects" />
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### UBRA Startup
-
-<a href="https://ubra.shop" target="_blank">
-  <img src="./assets/UBRA.png" alt="UBRA Website" width="100%" style="border-radius: 10px;"/>
-</a>
-
-<br/>
-
-**Philippine national startup qualifier and Regional Champion** showcasing innovative features and responsive design.
-
-<br/>
-
-<a href="https://ubra.shop" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Website-e528e6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit UBRA"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### GFP Website
-
-<a href="https://gasmenfuneral.online" target="_blank">
-  <img src="./assets/GFP.png" alt="GFP Website" width="100%" style="border-radius: 10px;"/>
-</a>
-
-<br/>
-
-**Business website** I built to increase online presence and customer engagement.
-
-<br/>
-
-<a href="https://gasmenfuneral.online" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Website-e528e6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit GFP"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 </div>
 

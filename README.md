@@ -45,7 +45,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=435&lines=ABOUT+ME" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=D946EF&center=true&vCenter=true&repeat=false&width=435&lines=ABOUT+ME" alt="About Me" />
 </div>
 
 
@@ -138,7 +138,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=435&lines=TECH+STACK" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=D946EF&center=true&vCenter=true&repeat=false&width=435&lines=TECH+STACK" alt="Tech Stack" />
 </div>
 
 <div align="center">
@@ -210,7 +210,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=435&lines=MY+PROJECTS" alt="My Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=D946EF&center=true&vCenter=true&repeat=false&width=435&lines=MY+PROJECTS" alt="My Projects" />
 </div>
 
 <div align="center">
@@ -273,7 +273,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&lines=GITHUB+ANALYTICS" alt="GitHub Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=D946EF&center=true&vCenter=true&repeat=false&width=500&lines=GITHUB+ANALYTICS" alt="GitHub Analytics" />
 </div>
 
 <br/>
@@ -326,7 +326,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8C%90+CONNECT+WITH+ME" alt="Connect With Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=D946EF&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8C%90+CONNECT+WITH+ME" alt="Connect With Me" />
 </div>
 
 <br/>

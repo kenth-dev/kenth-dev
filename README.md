@@ -166,11 +166,11 @@
 
 <h2 align="center"><strong>GitHub Activity Graph</strong></h2>
 <!-- Pac-Man Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contributions.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contributions.svg"/>
+  <img alt="Pac-Man eating contributions" src="./assets/pacman-contributions.svg" width="100%"/>
+</picture>
 <div align="center">
   <div style="display: inline-flex; align-items: center; justify-content: center; gap: 24px; flex-wrap: wrap;">
     <a href="https://git.io/streak-stats">

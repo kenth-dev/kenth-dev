@@ -100,22 +100,12 @@ life_philosophy: "Code is art. Innovation is the canvas."
 </tr>
 </table>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ⚡ CURRENTLY LEARNING                                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+<img src="./assets/pacman.gif" alt="Pacman" width="310"/>
   
 ### ⚡ Currently Learning & Building
 
-<br/>
-
-<img src="./assets/pacman.gif" alt="Pacman" width="200"/>
 
 <br/>
 

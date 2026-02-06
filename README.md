@@ -159,30 +159,8 @@
 
 ---
 
-### Resume
-Resume: coming soon  
-
----
-<div style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: wrap;">
-
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=kenth-dev&theme=monokai&hide_border=true"
-      height="180"
-      alt="GitHub Streak Stats"
-    />
-  </a>
-
-  <a href="https://github.com/anuraghazr/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenth-dev&layout=pie&theme=monokai&hide_border=true"
-      height="180"
-      alt="Top Languages"
-    />
-  </a>
-
-</div>
-
+<h2 align="center"><strong>Resume</strong></h2>
+<p align=center> Coming Soon </p>
 
 ---
 
@@ -190,6 +168,26 @@ Resume: coming soon
  <p align="center">
   <img src="https://github.com/kenth-dev/kenth-dev/blob/main/github-user-contribution.svg" alt="GitHub Activity Graph" />
 </p>
+<div align="center">
+  <div style="display: inline-flex; align-items: center; justify-content: center; gap: 24px; flex-wrap: wrap;">
+    <a href="https://git.io/streak-stats">
+      <img
+        src="https://streak-stats.demolab.com?user=kenth-dev&theme=monokai&hide_border=true"
+        height="180"
+        alt="GitHub Streak Stats"
+      />
+    </a>
+    <a href="https://github.com/anuraghazr/github-readme-stats">
+      <img
+        src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=kenth-dev&layout=donut&theme=monokai"
+        height="180"
+        alt="Top Languages"
+      />
+    </a>
+
+  </div>
+</div>
+
 
 
 

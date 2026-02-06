@@ -280,7 +280,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
   
   <!-- 📊 LANGUAGE USAGE -->
   <a href="https://github.com/kenth-dev">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenth-dev&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e528e6&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenth-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e528e6&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
   </a>
   
   <br/>

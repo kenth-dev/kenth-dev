@@ -163,8 +163,27 @@
 Resume: coming soon  
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=kenth-dev&theme=monokai&hide_border=true&card_height=180)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenth-dev)](https://github.com/anuraghazr/github-readme-stats)
+<div style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: wrap;">
+
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=kenth-dev&theme=monokai&hide_border=true"
+      height="180"
+      alt="GitHub Streak Stats"
+    />
+  </a>
+
+  <a href="https://github.com/anuraghazr/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenth-dev&layout=compact&hide_border=true"
+      height="180"
+      alt="Top Languages"
+    />
+  </a>
+
+</div>
+
+
 ---
 
 <h2 align="center"><strong>GitHub Activity Graph</strong></h2>

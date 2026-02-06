@@ -34,7 +34,9 @@
 
 <br/>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(229,40,230,0) 0%, rgba(229,40,230,1) 50%, rgba(229,40,230,0) 100%);" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
@@ -43,7 +45,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=E528E6&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%A4+ABOUT+ME" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=435&lines=ABOUT+ME" alt="About Me" />
 </div>
 
 
@@ -51,7 +53,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🎯 What I Do
+### What I Do
 
 ```yaml
 name: Kenneth Gasmen
@@ -59,11 +61,11 @@ located_in: Philippines 🇵🇭
 current_status: Computer Science Undergraduate
 
 areas_of_expertise:
-  - 🌐 Full Stack Web Development
-  - ⚡ MERN Stack Architecture
-  - 💻 Modern JavaScript Frameworks
-  - 🎨 Frontend & Backend Design
-  - 🗄️ Database Integration
+  - Full Stack Web Development
+  - MERN Stack Architecture
+  - Modern JavaScript Frameworks
+  - Frontend & Backend Design
+  - Database Integration
 
 currently_building:
   - Next-gen Web Applications
@@ -76,25 +78,25 @@ life_philosophy: "Code is art. Innovation is the canvas."
 </td>
 <td width="45%" valign="top">
 
-### 🚀 Current Focus
+### Current Focus
 
-- 🔬 **Mastering** MERN stack development
-- 🌐 **Building** full-stack applications
-- 🧠 **Exploring** RESTful APIs & Node.js
-- 📚 **Learning** DevOps & deployment
-- 🤖 **Diving into** AI & Machine Learning
-- 🏆 **Creating** real-world projects
+- **Mastering** MERN stack development
+- **Building** full-stack applications
+- **Exploring** RESTful APIs & Node.js
+- **Learning** DevOps & deployment
+- **Diving into** AI & Machine Learning
+- **Creating** real-world projects
 
 <br/>
 
-### 💡 Quick Facts
+### Quick Facts
 
-- 🎓 Computer Science student
-- 🔥 Passionate about web technology
-- 🌱 Always learning & growing
-- ☕ Fueled by coffee & curiosity
-- 📸 Photography enthusiast
-- 🏍️ Motorcycle rider
+- Computer Science student
+- Passionate about web technology
+- Always learning & growing
+- Fueled by coffee & curiosity
+- Photography enthusiast
+- Motorcycle rider
 
 </td>
 </tr>
@@ -104,42 +106,45 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <div align="center">
 <img src="./assets/pacman.gif" alt="Pacman" width="310"/>
   
-### ⚡ Currently Learning & Building
+### Currently Learning & Building
 
 
 <br/>
 
 <a href="https://github.com/kenth-dev">
-  <img src="https://img.shields.io/badge/🌐_Full_Stack-Web_Development-e528e6?style=for-the-badge&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/Full_Stack-Web_Development-e528e6?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 &nbsp;
 <a href="https://github.com/kenth-dev">
-  <img src="https://img.shields.io/badge/⚡_MERN_Stack-Architecture-e528e6?style=for-the-badge&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/MERN_Stack-Architecture-e528e6?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 &nbsp;
 <a href="https://github.com/kenth-dev">
-  <img src="https://img.shields.io/badge/🤖_AI_ML-Basics-e528e6?style=for-the-badge&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/AI_ML-Basics-e528e6?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 
 </div>
 
 <br/>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(229,40,230,0) 0%, rgba(229,40,230,1) 50%, rgba(229,40,230,0) 100%);" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ⚡ TECH STACK                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=E528E6&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9A%A1+TECH+STACK" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=435&lines=TECH+STACK" alt="Tech Stack" />
 </div>
 
 <div align="center">
 
-<!-- 💻 LANGUAGES -->
-<h4>💻 Languages</h4>
+<!-- LANGUAGES -->
+<h4>Languages</h4>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/></a>
@@ -150,8 +155,8 @@ life_philosophy: "Code is art. Innovation is the canvas."
   <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP"/></a>
 </p>
 
-<!-- 🌐 WEB DEVELOPMENT -->
-<h4>🌐 Web Development</h4>
+<!-- WEB DEVELOPMENT -->
+<h4>Web Development</h4>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3"/></a>
@@ -162,8 +167,8 @@ life_philosophy: "Code is art. Innovation is the canvas."
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
 </p>
 
-<!-- 🗄️ DATABASES -->
-<h4>🗄️ Databases</h4>
+<!-- DATABASES -->
+<h4>Databases</h4>
 <p>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
@@ -171,16 +176,16 @@ life_philosophy: "Code is art. Innovation is the canvas."
   <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" title="Supabase"/></a>
 </p>
 
-<!-- ☁️ CLOUD & DEPLOYMENT -->
-<h4>☁️ Cloud & Deployment</h4>
+<!-- CLOUD & DEPLOYMENT -->
+<h4>Cloud & Deployment</h4>
 <p>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS"/></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
 </p>
 
-<!-- 🔧 TOOLS & PLATFORMS -->
-<h4>🔧 Tools & Platforms</h4>
+<!-- TOOLS & PLATFORMS -->
+<h4>Tools & Platforms</h4>
 <p>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/></a>
@@ -194,7 +199,9 @@ life_philosophy: "Code is art. Innovation is the canvas."
 
 <br/>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(229,40,230,0) 0%, rgba(229,40,230,1) 50%, rgba(229,40,230,0) 100%);" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
@@ -203,7 +210,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=E528E6&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9A%80+MY+PROJECTS" alt="My Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=435&lines=MY+PROJECTS" alt="My Projects" />
 </div>
 
 <div align="center">
@@ -212,7 +219,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 UBRA Startup
+### UBRA Startup
 
 <a href="https://ubra.shop" target="_blank">
   <img src="./assets/UBRA.png" alt="UBRA Website" width="100%" style="border-radius: 10px;"/>
@@ -231,7 +238,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 </td>
 <td width="50%" valign="top">
 
-### 💼 GFP Website
+### GFP Website
 
 <a href="https://gasmenfuneral.online" target="_blank">
   <img src="./assets/GFP.png" alt="GFP Website" width="100%" style="border-radius: 10px;"/>
@@ -255,15 +262,18 @@ life_philosophy: "Code is art. Innovation is the canvas."
 
 <br/>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(229,40,230,0) 0%, rgba(229,40,230,1) 50%, rgba(229,40,230,0) 100%);" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=E528E6&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%93%8A+GITHUB+ANALYTICS" alt="GitHub Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&lines=GITHUB+ANALYTICS" alt="GitHub Analytics" />
 </div>
 
 <br/>
@@ -299,13 +309,15 @@ life_philosophy: "Code is art. Innovation is the canvas."
   
   <br/>
   
-  <sub>👾 Watch Pac-Man devour my contributions!</sub>
+  <sub>Watch Pac-Man devour my contributions!</sub>
   
 </div>
 
 <br/>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, rgba(229,40,230,0) 0%, rgba(229,40,230,1) 50%, rgba(229,40,230,0) 100%);" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
@@ -314,7 +326,7 @@ life_philosophy: "Code is art. Innovation is the canvas."
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=E528E6&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8C%90+CONNECT+WITH+ME" alt="Connect With Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=35&duration=1&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8C%90+CONNECT+WITH+ME" alt="Connect With Me" />
 </div>
 
 <br/>

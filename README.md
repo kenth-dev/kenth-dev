@@ -175,7 +175,7 @@ Resume: coming soon
 
   <a href="https://github.com/anuraghazr/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenth-dev&layout=compact&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenth-dev&layout=pie&theme=monokai&hide_border=true"
       height="180"
       alt="Top Languages"
     />

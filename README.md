@@ -1,195 +1,348 @@
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██╗  ██╗███████╗███╗   ██╗███╗   ██╗███████╗████████╗██╗  ██╗            ║
+║   ██║ ██╔╝██╔════╝████╗  ██║████╗  ██║██╔════╝╚══██╔══╝██║  ██║            ║
+║   █████╔╝ █████╗  ██╔██╗ ██║██╔██╗ ██║█████╗     ██║   ███████║            ║
+║   ██╔═██╗ ██╔══╝  ██║╚██╗██║██║╚██╗██║██╔══╝     ██║   ██╔══██║            ║
+║   ██║  ██╗███████╗██║ ╚████║██║ ╚████║███████╗   ██║   ██║  ██║            ║
+║   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝            ║
+║                                                                              ║
+║       🚀 FULL STACK DEVELOPER • MERN SPECIALIST • PROBLEM SOLVER 🚀         ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 🎯 ANIMATED HEADER                                                          -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=e528e6&width=450&lines=Welcome+to+my+Space!+</>;I+am+Kenneth+Gasmen+<3;CompSci+Undergraduate;Full+Stack+Developer;Building+Real+World+Proj;Full-time+Problem+Solver;Part-time+Coffee+Drinker" alt="Typing SVG"/>
   </a>
-</div>
+  
 
-
-![GitHub GIF](assets/githubgif.gif)
-
----
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🖥️ INTRO GIF SECTION                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <h1>About Me</h1>
-
-  <p>
-    <img src="assets/pacman.gif" alt="GitHub GIF" width="200" />
-  </p>
-
-  <div style="text-align: justify; margin: 0 auto; width: 90%;">
-    I am a <strong>Computer Science undergraduate</strong> specializing in <strong>full stack web development</strong>.  
-    Currently, I focus on the <strong>MERN stack</strong> and modern JavaScript frameworks, building projects to strengthen both frontend and backend skills.
-    Beyond coding, I enjoy <strong>photography</strong>, <strong>motorcycle rides</strong>, <strong>nature trips</strong>, and exploring <strong>new coffee spots</strong>.  
-    These interests fuel creativity and problem-solving in my development work.
-    I am continuously expanding my technical skills while combining them with creativity and curiosity,  
-    aiming to contribute to <strong>meaningful and innovative applications</strong> in the future.
-  </div>
+  <img src="./assets/githubgif.gif" alt="GitHub Animation" width="650"/>
 </div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/MERN-Stack-blue" />
-  <img src="https://img.shields.io/badge/JavaScript-Core-yellow" />
-  <img src="https://img.shields.io/badge/Next.js-React-black" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+<br/>
 
-<h2 align="center"><strong>Currently Learning</strong></h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME SECTION                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E60BB&width=435&lines=Full+stack+web+development;MERN+stack+architecture;RESTful+API+with+Node.js+and+Express;Database+integration;Introductory+DevOps+and+deployment;AI+and+Machine+Learning+basics" alt="Typing SVG" />
+<h1 align="center" style="color: #e528e6;">👤 ABOUT ME</h1>
+
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🎯 What I Do
+
+```yaml
+name: Kenneth Gasmen
+located_in: Philippines 🇵🇭
+current_status: Computer Science Undergraduate
+
+areas_of_expertise:
+  - 🌐 Full Stack Web Development
+  - ⚡ MERN Stack Architecture
+  - 💻 Modern JavaScript Frameworks
+  - 🎨 Frontend & Backend Design
+  - 🗄️ Database Integration
+
+currently_building:
+  - Next-gen Web Applications
+  - Scalable Business Solutions
+  - Developer Tools & Utilities
+
+life_philosophy: "Code is art. Innovation is the canvas."
+```
+
+</td>
+<td width="45%" valign="top">
+
+### 🚀 Current Focus
+
+- 🔬 **Mastering** MERN stack development
+- 🌐 **Building** full-stack applications
+- 🧠 **Exploring** RESTful APIs & Node.js
+- 📚 **Learning** DevOps & deployment
+- 🤖 **Diving into** AI & Machine Learning
+- 🏆 **Creating** real-world projects
+
+<br/>
+
+### 💡 Quick Facts
+
+- 🎓 Computer Science student
+- 🔥 Passionate about web technology
+- 🌱 Always learning & growing
+- ☕ Fueled by coffee & curiosity
+- 📸 Photography enthusiast
+- 🏍️ Motorcycle rider
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡ CURRENTLY LEARNING                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### ⚡ Currently Learning & Building
+
+<br/>
+
+<a href="https://github.com/kenth-dev">
+  <img src="https://img.shields.io/badge/🌐_Full_Stack-Web_Development-e528e6?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/kenth-dev">
+  <img src="https://img.shields.io/badge/⚡_MERN_Stack-Architecture-e528e6?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/kenth-dev">
+  <img src="https://img.shields.io/badge/🤖_AI_ML-Basics-e528e6?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 
-</p>
-
-
----
-<h1 align="center"><strong>Tech Stack</strong></h1>
-
-<h3 align="center"><strong>Programming Languages</strong></h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
-</p>
-
-<h3 align="center"><strong>Frontend Development</strong></h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
-
-<!-- Backend -->
-</p>
-
-<h3 align="center"><strong>Backend Development</strong></h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" width="180" height="180"/>
-</p>
-
-<h3 align="center"><strong>Database</strong></h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
-</p>
-
-<h3 align="center"><strong>Cloud & Deployment</strong></h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" width="130" height="130"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
-</p>
-
-<h3 align="center"><strong>Version Control and Development Tools</strong></h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="130" height="130"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
-</p>
-
-
----
-
-<h1 align="center"><strong>My Projects</strong></h1>
-
-<p align="center">
-  <a href="https://ubra.shop" target="_blank">
-    <img src="assets/UBRA.png" alt="UBRA Website" width="300" height="200" style="margin: 10px; border-radius: 10px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-  </a>
-  <br>
-  <a href="https://ubra.shop" target="_blank" style="text-decoration: none; color: #1E90FF;">
-    <strong>UBRA Startup</strong>
-  </a>
-  <br>
-  <em>Philippine national startup qualifier and Regional Champion showcasing innovative features and responsive design.</em>
-</p>
-
-<p align="center">
-  <a href="https://gasmenfuneral.online" target="_blank">
-    <img src="assets/GFP.png" alt="GFP Website" width="300" height="200" style="margin: 10px; border-radius: 10px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-  </a>
-  <br>
-  <a href="https://gasmenfuneral.online" target="_blank" style="text-decoration: none; color: #1E90FF;">
-    <strong>GFP Website</strong>
-  </a>
-  <br>
-  <em>Business website I built to increase online presence and customer engagement.</em>
-</p>
-
-
-
----
-<h2 align="center"><strong>Contact Me</strong></h2>
-
-<!-- LinkedIn Row -->
-<p align="center" style="margin-bottom: 30px;">
-  <a href="https://www.linkedin.com/in/kenneth-gasmen-021046354/" target="_blank">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
-  </a>
-</p>
-
-<!-- Email and Phone Row -->
-<h3 align="center" style="line-height: 2.5;">
-  <a href="mailto:kengasmen@gmail.com" style="margin: 0 20px;">
-    <span style="font-size: 45px; font-weight: bold; background-color: #D14836; color: white; padding: 15px 20px; border-radius: 6px;">
-      📧 kengasmen@gmail.com
-    </span>
-  </a>
-
-  <span style="font-size: 45px; font-weight: bold; background-color: #25D366; color: white; padding: 15px 20px; border-radius: 6px; margin-left: 20px;">
-    📞 +63-966-149-0595
-  </span>
-</h3>
-
-
----
-
-<h2 align="center"><strong>Resume</strong></h2>
-<p align=center> Coming Soon </p>
-
----
-
-<h2 align="center"><strong>GitHub Activity Graph</strong></h2>
-<!-- Pac-Man Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contributions.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contributions.svg"/>
-  <img alt="Pac-Man eating contributions" src="./assets/pacman-contributions.svg" width="100%"/>
-</picture>
-<div align="center">
-  <div style="display: inline-flex; align-items: center; justify-content: center; gap: 24px; flex-wrap: wrap;">
-    <a href="https://git.io/streak-stats">
-      <img
-        src="https://streak-stats.demolab.com?user=kenth-dev&theme=monokai&hide_border=true"
-        height="180"
-        alt="GitHub Streak Stats"
-      />
-    </a>
-    <a href="https://github.com/anuraghazr/github-readme-stats">
-      <img
-        src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=kenth-dev&layout=donut&theme=monokai"
-        height="180"
-        alt="Top Languages"
-      />
-    </a>
-
-  </div>
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡ TECH STACK                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h1 align="center" style="color: #e528e6;">⚡ TECH STACK</h1>
+
+<div align="center">
+
+<!-- 💻 LANGUAGES -->
+<h4>💻 Languages</h4>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP"/></a>
+</p>
+
+<!-- 🌐 WEB DEVELOPMENT -->
+<h4>🌐 Web Development</h4>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap"/></a>
+</p>
+
+<!-- 🗄️ DATABASES -->
+<h4>🗄️ Databases</h4>
+<p>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
+</p>
+
+<!-- ☁️ CLOUD & DEPLOYMENT -->
+<h4>☁️ Cloud & Deployment</h4>
+<p>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
+</p>
+
+<!-- 🔧 TOOLS & PLATFORMS -->
+<h4>🔧 Tools & Platforms</h4>
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" title="Figma"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
+</p>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 MY PROJECTS                                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h1 align="center" style="color: #e528e6;">🚀 MY PROJECTS</h1>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 UBRA Startup
+
+<a href="https://ubra.shop" target="_blank">
+  <img src="./assets/UBRA.png" alt="UBRA Website" width="100%" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+**Philippine national startup qualifier and Regional Champion** showcasing innovative features and responsive design.
+
+<br/>
+
+<a href="https://ubra.shop" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_Website-e528e6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit UBRA"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 GFP Website
+
+<a href="https://gasmenfuneral.online" target="_blank">
+  <img src="./assets/GFP.png" alt="GFP Website" width="100%" style="border-radius: 10px;"/>
+</a>
+
+<br/>
+
+**Business website** I built to increase online presence and customer engagement.
+
+<br/>
+
+<a href="https://gasmenfuneral.online" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_Website-e528e6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit GFP"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h1 align="center" style="color: #e528e6;">📊 GITHUB ANALYTICS</h1>
+
+<br/>
+
+<div align="center">
+  
+  <!-- GitHub Stats + Streak in ONE ROW -->
+  <a href="https://github.com/kenth-dev">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kenth-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e528e6&icon_color=e528e6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://git.io/streak-stats">
+    <img height="195em" src="https://streak-stats.demolab.com?user=kenth-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=e528e6&fire=e528e6&currStreakLabel=e528e6" alt="GitHub Streak Stats"/>
+  </a>
+  
+  <br/>
+  
+  <!-- 📊 LANGUAGE USAGE -->
+  <a href="https://github.com/kenth-dev">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenth-dev&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e528e6&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
+  
+  <br/>
+
+<div align="center">
+  
+  <!-- Pac-Man Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contributions.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contributions.svg"/>
+    <img alt="Pac-Man eating contributions" src="./assets/pacman-contributions.svg" width="100%"/>
+  </picture>
+  
+  <br/>
+  
+  <sub>👾 Watch Pac-Man devour my contributions!</sub>
+  
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 CONNECT WITH ME                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h1 align="center" style="color: #e528e6;">🌐 CONNECT WITH ME</h1>
+
+<br/>
+
+<div align="center">
+  
+<a href="https://github.com/kenth-dev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kenneth-gasmen-021046354/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:kengasmen@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
+</a>
+&nbsp;
+<a href="tel:+639661490595">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b26" alt="Phone"/>
+</a>
+
+</div>
+
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e528e6&height=80&section=footer"/>
+  
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📝 END OF README                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 
 
 

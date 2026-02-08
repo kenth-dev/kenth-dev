@@ -51,26 +51,26 @@
 <tr>
 <td width="55%" valign="top">
 
-### What I Do
+</br>
 
 ```yaml
-name: Kenneth Gasmen
-located_in: Philippines 🇵🇭
-current_status: Computer Science Undergraduate
+Name: Kenneth Gasmen
+Location: Philippines
+Status: Computer Science Undergraduate
 
-areas_of_expertise:
+Area of Experties:
   - Full Stack Web Development
   - MERN Stack Architecture
   - Modern JavaScript Frameworks
   - Frontend & Backend Design
   - Database Integration
 
-currently_building:
+Currently Building:
   - Next-gen Web Applications
   - Scalable Business Solutions
   - Developer Tools & Utilities
 
-life_philosophy: "If you have a problem, 
+Life Philosophy: "If you have a problem, 
                   I have the solution."
 ```
 
@@ -86,7 +86,6 @@ life_philosophy: "If you have a problem,
 - **Diving into** AI & Machine Learning
 - **Creating** real-world projects
 
-<br/>
 
 ### Quick Facts
 

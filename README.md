@@ -94,7 +94,6 @@ Life Philosophy: "If you have a problem,
 - Always learning & growing
 - Fueled by coffee & curiosity
 - Photography enthusiast
-- Motorcycle rider
 
 </td>
 </tr>
@@ -216,19 +215,9 @@ Life Philosophy: "If you have a problem,
 <div align="center">
   
   <!-- GitHub Stats + Streak in ONE ROW -->
-  <a href="https://github.com/kenth-dev">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kenth-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e528e6&icon_color=e528e6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
   &nbsp;
   <a href="https://github.com/kenth-dev">
     <img height="195em" src="https://nirzak-streak-stats.vercel.app/?user=kenth-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=e528e6&fire=e528e6&currStreakLabel=e528e6&stroke=e528e6" alt="GitHub Streak Stats"/>
-  </a>
-  
-  <br/>
-  
-  <!-- 📊 LANGUAGE USAGE -->
-  <a href="https://github.com/kenth-dev">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kenth-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e528e6&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
   </a>
   
   <br/>

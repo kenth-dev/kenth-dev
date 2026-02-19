@@ -76,7 +76,7 @@ Life Philosophy: "If you have a problem,
 
 </td>
 <td width="45%" valign="top">
-
+  
 ### Current Focus
 
 - **Mastering** MERN stack development
@@ -93,7 +93,6 @@ Life Philosophy: "If you have a problem,
 - Passionate about web technology
 - Always learning & growing
 - Fueled by coffee & curiosity
-- Photography enthusiast
 
 </td>
 </tr>
@@ -146,7 +145,7 @@ Life Philosophy: "If you have a problem,
   <!-- GitHub Stats + Streak in ONE ROW -->
   &nbsp;
   <a href="https://git.io/streak-stats">
-    <img height="195em" src="https://nirzak-streak-stats.vercel.app?user=kenth-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=e528e6&fire=e528e6&currStreakLabel=e528e6&stroke=e528e6" alt="GitHub Streak" />
+    <img height="195em" src="https://streak-stats.demolab.com?user=kenth-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=e528e6&fire=e528e6&currStreakLabel=e528e6&stroke=e528e6" alt="GitHub Streak" />
   </a>
   
   <br/>

@@ -60,39 +60,20 @@ Status: Computer Science Undergraduate
 
 Current Skills:
   - Full Stack Web Development
-  - MERN Stack Architecture
+  - Frontend & Responsive Design
+  - RESTful APIs & Node.js
   - Modern JavaScript Frameworks
-  - Frontend & Backend Design
   - Database Integration
 
 Currently Building:
   - Next-gen Web Applications
   - Scalable Business Solutions
   - Developer Tools & Utilities
+  - Diving into AI & Machine Learning
 
 Life Philosophy: "If you have a problem, 
                   I have the solution."
 ```
-
-</td>
-<td width="45%" valign="top">
-  
-### Current Focus
-
-- **Mastering** MERN stack development
-- **Building** full-stack applications
-- **Exploring** RESTful APIs & Node.js
-- **Learning** DevOps & deployment
-- **Diving into** AI & Machine Learning
-- **Creating** real-world projects
-
-
-### Quick Facts
-
-- Computer Science student
-- Passionate about web technology
-- Always learning & growing
-- Fueled by coffee & curiosity
 
 </td>
 </tr>

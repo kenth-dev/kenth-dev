@@ -102,26 +102,6 @@ Life Philosophy: "If you have a problem,
 <div align="center">
 <img src="./assets/pacman.gif" alt="Pacman" width="310"/>
   
-<h3><strong>Currently Learning & Building</strong></h3>
-
-
-<br/>
-
-<a href="https://github.com/kenth-dev">
-  <img src="https://img.shields.io/badge/Full_Stack-Web_Development-e528e6?style=for-the-badge&labelColor=1a1b26"/>
-</a>
-&nbsp;
-<a href="https://github.com/kenth-dev">
-  <img src="https://img.shields.io/badge/MERN_Stack-Architecture-e528e6?style=for-the-badge&labelColor=1a1b26"/>
-</a>
-&nbsp;
-<a href="https://github.com/kenth-dev">
-  <img src="https://img.shields.io/badge/AI_ML-Basics-e528e6?style=for-the-badge&labelColor=1a1b26"/>
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

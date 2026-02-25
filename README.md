@@ -62,8 +62,8 @@ Current Skills:
   - Full Stack Web Development
   - Frontend & Responsive Design
   - RESTful APIs & Node.js
-  - Modern JavaScript Frameworks
-  - Database Integration
+  - AI Integration
+  - Database
 
 Currently Building:
   - Next-gen Web Applications

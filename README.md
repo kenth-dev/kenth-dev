@@ -66,8 +66,8 @@ Current Skills:
   - Database
 
 Currently Building:
-  - Next-gen Web Applications
-  - Scalable Business Solutions
+  - Web Applications
+  - AI-powered Solutions
   - Developer Tools & Utilities
   - Diving into AI & Machine Learning
 

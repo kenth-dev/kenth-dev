@@ -18,7 +18,7 @@
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=e528e6&width=500&lines=Hey+There!+I'm+Kenneth+</>;Aspiring+Full+Stack+Developer;Turning+Ideas+Into+Reality;Code+%7C+Coffee+%7C+Create;Always+Learning+%26+Building" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=e528e6&width=500&lines=Hey+There!+I'm+Kenneth+</>;Aspiring+Software+Engineer;Turning+Ideas+Into+Reality;Code+%7C+Coffee+%7C+Create;Always+Learning+%26+Building" alt="Typing SVG"/>
   </a>
   
 

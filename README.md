@@ -68,7 +68,7 @@ Current Skills:
 Currently Building:
   - Web Applications
   - AI-powered Solutions
-  - Developer Tools & Utilities
+  - Developer Tools
   - Diving into AI & Machine Learning
 
 Life Philosophy: "If you have a problem, 
